@@ -1,0 +1,27 @@
+@charset "utf-8" ;
+
+body {
+    font-family: 'Play';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1B365C;;
+    line-height: 24px;
+}
+ header{
+    background: url(soccer-ball-on-ground-under-the-clear-blue-sky.JPG);
+    position: absolute;
+    height: 260px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background-size: cover;
+}
+  hamburger {
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    right: 39px;
+    top: 32px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  }
